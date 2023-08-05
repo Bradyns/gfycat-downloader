@@ -1,0 +1,9 @@
+{
+    "clientId": "abcd1234",
+    "clientSecret": "abcdefghijklmnopqrstuvwxyz1234567890",
+    "username": "gfycat_username",
+    "password": "gfycat_password",
+    "maxConcurrentDownloads": 3,
+    "downloadSpeed": 0.25,
+    "videoFormat": "webm"
+}
