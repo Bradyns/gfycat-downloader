@@ -1,6 +1,14 @@
 
 # GFYCAT DOWNLOADER
 
+---
+
+### Update (September 1st, 2023):
+
+[Gfycat](https://gfycat.com) has now closed, so I will be archiving this repo.
+
+---
+
 The website [Gfycat](https://gfycat.com) is shutting down on September 1st, 2023.. and with it, it will delete all content.
 
 This project was made in order for me to download Rocket League clips I'd uploaded to the website over the years.
